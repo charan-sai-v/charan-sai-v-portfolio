@@ -46,7 +46,7 @@ export default function Home() {
               </CardHeader>
               <CardContent>
                 <CardDescription className='md:text-lg'>
-                    I am a Software Engineer with experience in building web applications using React, Node.js, and GraphQL. I am passionate about learning new technologies and building products that solve real-world problems.
+                    I am a computer science student at KL University, currently exploring and expanding my knowledge in the field of web development and DevOps. I am passionate about learning new technologies and building products that solve real-world problems.
                 </CardDescription>
               </CardContent>
               <CardFooter className=''>
@@ -98,7 +98,7 @@ export default function Home() {
                   <Image src={Django} alt='' width={96} height={96} className='dark:hidden object-cover' />
                   <Image src={DjangoLightIcon} alt='' width={96} height={96} className='hidden dark:flex object-cover' />
                 </div>
-                <Progress value={60}  className='mt-5 h-3' />
+                <Progress value={75}  className='mt-5 h-3' />
                 
               </CardContent>
             </Card>
@@ -110,7 +110,7 @@ export default function Home() {
                 <div className='flex items-center justify-center'>
                   <Image src={ReactIcon} alt='' width={96} height={96} className='object-cover w-24 h-24' />
                 </div>
-                <Progress value={60}  className='mt-5 h-3' />
+                <Progress value={80}  className='mt-5 h-3' />
                 
               </CardContent>
             </Card>
@@ -122,7 +122,7 @@ export default function Home() {
                 <div className='flex items-center justify-center'>
                   <Image src='https://vcharansaiv.wpless.com/img/spring.svg' alt='' width={96} height={96} className='object-cover w-24 h-24' />
                 </div>
-                <Progress value={60}  className='mt-5 h-3' />
+                <Progress value={70}  className='mt-5 h-3' />
                 
               </CardContent>
             </Card>
@@ -135,7 +135,7 @@ export default function Home() {
                   <Image src={ExpressIcon} alt='' width={96} height={96} className='dark:hidden object-cover w-24 h-24' />
                   <Image src={ExpressLightIcon} alt='' width={96} height={96} className='hidden dark:flex object-cover w-24 h-24' />
                 </div>
-                <Progress value={60}  className='mt-5 h-3' />
+                <Progress value={82}  className='mt-5 h-3' />
                 
               </CardContent>
             </Card>
